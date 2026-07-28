@@ -19,4 +19,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0184-department-highest-salary) |
+| [1148-article-views-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
