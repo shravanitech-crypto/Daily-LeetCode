@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0184-department-highest-salary](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0184-department-highest-salary) |
 | [1148-article-views-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1527-patients-with-a-condition](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1965-employees-with-missing-information](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1965-employees-with-missing-information) |
