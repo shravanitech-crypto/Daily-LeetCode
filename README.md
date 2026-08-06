@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1795-rearrange-products-table](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1795-rearrange-products-table) |
 | [1965-employees-with-missing-information](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3436-find-valid-emails](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3436-find-valid-emails) |
 ## String
 |  |
