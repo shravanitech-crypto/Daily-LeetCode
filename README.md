@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [2810-faulty-keyboard](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0877-stone-game](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0877-stone-game) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
