@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1789-primary-department-for-each-employee](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1795-rearrange-products-table) |
+| [1890-the-latest-login-in-2020](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
