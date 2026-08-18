@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
