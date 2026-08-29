@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1068-product-sales-analysis-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1251-average-selling-price) |
