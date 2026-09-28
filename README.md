@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0706-design-hashmap](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0877-stone-game) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0706-design-hashmap](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0706-design-hashmap) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -187,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0258-add-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
