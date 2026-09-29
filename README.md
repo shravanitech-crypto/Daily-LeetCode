@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
