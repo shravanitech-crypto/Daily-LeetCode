@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0706-design-hashmap](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0877-stone-game) |
@@ -172,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Number Theory
 |  |
