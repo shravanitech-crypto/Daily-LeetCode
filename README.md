@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0856-score-of-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0856-score-of-parentheses) |
 | [2810-faulty-keyboard](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -219,8 +220,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
