@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0877-stone-game) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [2235-add-two-integers](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
