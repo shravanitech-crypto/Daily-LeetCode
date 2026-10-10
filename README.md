@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0389-find-the-difference) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0389-find-the-difference) |
 | [0856-score-of-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0856-score-of-parentheses) |
 | [2810-faulty-keyboard](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0389-find-the-difference) |
 | [0706-design-hashmap](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0706-design-hashmap) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0389-find-the-difference) |
 ## Prefix Sum
 |  |
 | ------- |
