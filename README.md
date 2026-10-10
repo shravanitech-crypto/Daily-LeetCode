@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0877-stone-game) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2235-add-two-integers](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2235-add-two-integers) |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0856-score-of-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
