@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0389-find-the-difference) |
 ## Prefix Sum
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
