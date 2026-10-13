@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0258-add-digits) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0191-number-of-1-bits) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
