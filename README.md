@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0134-gas-station) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
