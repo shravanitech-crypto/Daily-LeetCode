@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0389-find-the-difference) |
 | [0856-score-of-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0856-score-of-parentheses) |
 | [2810-faulty-keyboard](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2810-faulty-keyboard) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0383-ransom-note) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0389-find-the-difference) |
 | [0706-design-hashmap](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0706-design-hashmap) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
