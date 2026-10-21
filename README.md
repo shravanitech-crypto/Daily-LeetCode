@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0383-ransom-note) |
+| [0388-longest-absolute-file-path](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0856-score-of-parentheses) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0020-valid-parentheses) |
+| [0388-longest-absolute-file-path](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0856-score-of-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0100-same-tree) |
+| [0388-longest-absolute-file-path](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0388-longest-absolute-file-path) |
 ## Breadth-First Search
 |  |
 | ------- |
