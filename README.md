@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0877-stone-game) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2235-add-two-integers](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2235-add-two-integers) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
