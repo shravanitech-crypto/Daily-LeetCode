@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0856-score-of-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0258-add-digits) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/2810-faulty-keyboard) |
 | [3271-hash-divided-string](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
