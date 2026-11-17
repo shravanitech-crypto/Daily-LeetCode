@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0067-add-binary) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0877-stone-game) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0856-score-of-parentheses) |
 ## Recursion
 |  |
@@ -374,5 +377,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
