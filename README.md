@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0706-design-hashmap](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0706-design-hashmap) |
 ## Design
 |  |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shravanitech-crypto/Daily-LeetCode/tree/master/0342-power-of-four) |
 ## Enumeration
